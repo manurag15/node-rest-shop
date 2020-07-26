@@ -21,5 +21,6 @@ app.get('/:productId',function(req,res){
     });
   }
 });
-
+// *********************************Beware export'S'
 module.exports = app;
+// *********************************
